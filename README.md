@@ -7,5 +7,5 @@ Requisitos:
 - python3
 
 Instalación:
-- Ejecutar dentro de api-sudoers npm install
-- Ejecutar dentro de front-sudoers npm install
+- Ejecutar dentro de api-sudoers: npm install
+- Ejecutar dentro de front-sudoers: npm install
